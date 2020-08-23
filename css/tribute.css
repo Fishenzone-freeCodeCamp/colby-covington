@@ -5,7 +5,7 @@ body {
   text-align: center;
   color: white;
   margin: 0;
-  background-color: #7395ae;
+  background-color: #739683;
 }
 
 h1 {
@@ -47,7 +47,7 @@ a:visited {
 }
 
 #img-div {
-  background: #739683;
+  background: #7395ae;
   padding: 10px;
   margin: 0;
 }
